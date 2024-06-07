@@ -1,0 +1,484 @@
+.head-child {
+    position: absolute;
+    top: 0px;
+    left: 72.46px;
+    width: 1408.5px;
+    height: 721px;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    height: 100%;
+    width: 18.28%;
+    top: 0%;
+    left: 0%;
+    line-height: 29px;
+    display: inline-block;
+    mix-blend-mode: normal;
+}
+.programm {
+    position: absolute;
+    height: 100%;
+    width: 35.6%;
+    top: 0%;
+    left: 64.39%;
+    line-height: 29px;
+    display: inline-block;
+    mix-blend-mode: normal;
+}
+.tickets {
+    position: absolute;
+    height: 100%;
+    width: 25.11%;
+    top: 0%;
+    left: 28.78%;
+    line-height: 29px;
+    display: inline-block;
+    mix-blend-mode: normal;
+}
+.header {
+    position: absolute;
+    top: 37px;
+    left: 573.74px;
+    width: 407px;
+    height: 31px;
+}
+.logo {
+    position: absolute;
+    top: 37px;
+    left: 191.58px;
+    line-height: 29px;
+    display: inline-block;
+    width: 67.5px;
+}
+.egestas-quis-ipsum {
+    position: absolute;
+    top: 418px;
+    left: 191.58px;
+    line-height: 29px;
+    color: #aa6548;
+    display: inline-block;
+    width: 216.4px;
+}
+.eget-lorem-dolor {
+    position: absolute;
+    height: 45.6%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    line-height: 29px;
+    display: inline-block;
+}
+.eget-lorem-dolor1 {
+    position: absolute;
+    height: 45.6%;
+    width: 100%;
+    top: 54.4%;
+    left: 0%;
+    line-height: 29px;
+    display: inline-block;
+}
+.text-1 {
+    position: absolute;
+    top: 262px;
+    left: 0px;
+    width: 1221.9px;
+    height: 125px;
+    font-size: 72px;
+    font-family: Italiana;
+}
+.head {
+    width: 1481px;
+    position: absolute;
+    margin: 0 !important;
+    top: 10px;
+    left: -52px;
+    height: 721px;
+    z-index: 0;
+    font-family: Inter;
+}
+.section-1-child {
+    position: absolute;
+    top: 0px;
+    left: 109px;
+    border-radius: 107px;
+    width: 508px;
+    height: 508px;
+    object-fit: cover;
+}
+.platea-dictumst-quisque {
+    position: absolute;
+    top: 100px;
+    left: 580px;
+    line-height: 29px;
+    display: inline-block;
+    width: 870px;
+    height: 53px;
+}
+.lorem-ipsum-dolor {
+    letter-spacing: 0.02em;
+}
+.o {
+    letter-spacing: 0.11em;
+}
+.lorem-ipsum-dolor-container1 {
+    width: 100%;
+}
+.lorem-ipsum-dolor-container {
+    position: absolute;
+    top: 169px;
+    left: 642px;
+    font-size: 24px;
+    line-height: 41px;
+    color: #fff;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 651px;
+    height: 339px;
+}
+.section-1-item {
+    position: absolute;
+    top: 643.5px;
+    left: -0.5px;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+}
+.section-1 {
+    width: 1450px;
+    position: absolute;
+    margin: 0 !important;
+    top: 816px;
+    left: 10px;
+    height: 644px;
+    z-index: 1;
+    font-size: 73px;
+    color: #d16c23;
+}
+.lorem-ipsum-dolor1 {
+    margin-block-start: 0;
+    margin-block-end: 2px;
+}
+.consectetur-adipiscing-elit {
+    margin: 0;
+}
+.lorem-ipsum-dolor-container2 {
+    position: absolute;
+    top: 120px;
+    left: 209px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.lorem-ipsum-dolor-container4 {
+    position: absolute;
+    top: 250px;
+    left: 209px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.lorem-ipsum-dolor-container6 {
+    position: absolute;
+    top: 389px;
+    left: 209px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.lorem-ipsum-dolor-container8 {
+    position: absolute;
+    top: 118px;
+    left: 922px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.lorem-ipsum-dolor-container10 {
+    position: absolute;
+    top: 241px;
+    left: 927px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.lorem-ipsum-dolor-container12 {
+    position: absolute;
+    top: 389px;
+    left: 922px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 632px;
+    height: 96px;
+}
+.div {
+    position: absolute;
+    top: 141px;
+    left: 0px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.div1 {
+    position: absolute;
+    top: 262px;
+    left: 0px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.div2 {
+    position: absolute;
+    top: 401px;
+    left: 0px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.div3 {
+    position: absolute;
+    top: 138px;
+    left: 716px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.programao {
+    position: absolute;
+    top: 22px;
+    left: 207.5px;
+    font-size: 73px;
+    line-height: 29px;
+    color: #d16c23;
+    text-align: center;
+    display: inline-block;
+    width: 870px;
+    height: 53px;
+}
+.div4 {
+    position: absolute;
+    top: 254px;
+    left: 716px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.div5 {
+    position: absolute;
+    top: 398px;
+    left: 716px;
+    font-size: 72px;
+    letter-spacing: 0.02em;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 54px;
+}
+.section-2 {
+    width: 1348px;
+    position: absolute;
+    margin: 0 !important;
+    top: 1517px;
+    left: 76px;
+    height: 485px;
+    z-index: 2;
+    text-align: left;
+}
+.desktop-1-child {
+    width: 99.38%;
+    position: absolute;
+    margin: 0 !important;
+    height: 0.03%;
+    top: 95.59%;
+    right: 0.21%;
+    bottom: 4.37%;
+    left: 0.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 3;
+}
+.politcs {
+    width: 181px;
+    position: absolute;
+    margin: 0 !important;
+    top: 2867px;
+    left: 1165px;
+    line-height: 29px;
+    font-family: 'Open Sans';
+    display: inline-block;
+    height: 23px;
+    z-index: 4;
+}
+.copy-right {
+    width: 181px;
+    position: absolute;
+    margin: 0 !important;
+    top: 2866px;
+    left: 1003px;
+    line-height: 29px;
+    font-family: 'Open Sans';
+    display: inline-block;
+    height: 23px;
+    z-index: 5;
+}
+.section-4-child {
+    position: absolute;
+    top: 107px;
+    left: 136px;
+    width: 336px;
+    height: 372px;
+    object-fit: cover;
+}
+.section-4-item {
+    position: absolute;
+    top: 107px;
+    left: 492px;
+    width: 340px;
+    height: 372px;
+    object-fit: cover;
+}
+.section-4-inner {
+    position: absolute;
+    top: 107px;
+    left: 852px;
+    width: 340px;
+    height: 372px;
+    object-fit: cover;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 107px;
+    right: 0px;
+    width: 223px;
+    height: 372px;
+    object-fit: cover;
+}
+.section-4-child1 {
+    position: absolute;
+    top: 107px;
+    left: 0px;
+    width: 111px;
+    height: 372px;
+    object-fit: cover;
+}
+.fotos {
+    position: absolute;
+    top: 0px;
+    left: 590px;
+    line-height: 29px;
+    display: inline-block;
+    width: 262px;
+    height: 36px;
+}
+.section-4 {
+    width: 1437px;
+    position: absolute;
+    margin: 0 !important;
+    top: 2297px;
+    left: 0px;
+    height: 479px;
+    z-index: 6;
+    font-size: 76px;
+}
+
+.button2 {
+    width: 295px;
+    display: inline-block;
+    position: absolute;
+    top: 2040px;
+    left: 565px;
+    border-radius: 50px;
+    height: 101px;
+    font-size: 48px;
+    letter-spacing: 0.2em;
+    line-height: 29px;
+    color: #fff;
+    background: #B86644;
+}
+.desktop-1-inner {
+    width: 1437px;
+    position: relative;
+    margin: 0 !important;
+    height: 731px;
+    z-index: 9;
+}
+.slice-div {
+    width: 1437px;
+    position: relative;
+    margin: 0 !important;
+    height: 729px;
+    z-index: 10;
+}
+.desktop-1-child1 {
+    width: 1437px;
+    position: relative;
+    margin: 0 !important;
+    height: 716px;
+    z-index: 11;
+}
+.desktop-1-child2 {
+    width: 1440px;
+    position: relative;
+    margin: 0 !important;
+    height: 644px;
+    z-index: 12;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    border-radius: 3px;
+    background: linear-gradient(23.89deg, #b86644, #b28b6f 39.36%, #292421 57.94%, #000000);
+    height: 2950px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    font-family: Italiana;
+}
+
